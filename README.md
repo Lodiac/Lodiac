@@ -1,5 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lodiac" alt="Lodiac" /> </p>
 
+![](https://img.shields.io/badge/Words%20Added-188-brightgreen?labelColor=7D898B)
+![](https://img.shields.io/badge/Word%20Clouds%20Created-4-48D6FF?labelColor=7D898B)
+![](https://img.shields.io/badge/Total%20Participants-117-AC6EFF?labelColor=7D898B)
+
+
 
 <tr>
     <td><b>ERP & Business</b></td>
