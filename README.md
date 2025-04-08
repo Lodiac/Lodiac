@@ -1,13 +1,16 @@
-<tr>
-  <td>
-    <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil" alt="Vistas de perfil" />
-  </td>
-  <td><b>ERP & Business</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
-    <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
-  </td>
-</tr>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil" alt="Vistas de perfil" />
+  <table>
+    <tr>
+      <td><b>ERP & Business</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
+        <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
+      </td>
+    </tr>
+  </table>
+</p>
+
   </tr># 👋 ¡Hola! Soy German Martinez
 
 ## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Odoo Partner | Diseño 3D
