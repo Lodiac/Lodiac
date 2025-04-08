@@ -1,8 +1,14 @@
-# 👋 ¡Hola! Soy German Martinez
+<tr>
+    <td><b>ERP & Business</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
+      <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
+    </td>
+  </tr># 👋 ¡Hola! Soy German Martinez
 
-## 👨‍💻 Desarrollador Full-Stack | Sistemas Embebidos | Odoo Partner | Diseño 3D
+## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Odoo Partner | Diseño 3D
 
-Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones móviles, electrónica y sistemas embebidos. Partner oficial de Odoo con amplia experiencia en implementación y desarrollo de módulos personalizados.
+Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica y sistemas embebidos. Actualmente Jefe de Departamento de TI y Partner oficial de Odoo, con enfoque en crear soluciones eficientes y fáciles de mantener. Apasionado por la automatización y el desarrollo centrado en el usuario.
 
 <div align="center">
   <a href="[Tu LinkedIn]">
@@ -20,8 +26,8 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
   <tr>
     <td><b>Lenguajes</b></td>
     <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="csharp" />
       <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="cpp" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="php" />
@@ -98,10 +104,14 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
     </td>
   </tr>
   <tr>
-    <td><b>ERP & Business</b></td>
+    <td><b>Gestión de Proyectos</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
-      <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
+      <img src="https://img.shields.io/badge/Agile-47A248?style=flat-square&logo=agile&logoColor=white" alt="agile" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="jira" />
+      <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="trello" />
+      <img src="https://img.shields.io/badge/Asana-FC636B?style=flat-square&logo=asana&logoColor=white" alt="asana" />
+      <img src="https://img.shields.io/badge/Scrum-83B81A?style=flat-square&logoColor=white" alt="scrum" />
+      <img src="https://img.shields.io/badge/Liderazgo_TI-0078D4?style=flat-square&logoColor=white" alt="leadership" />
     </td>
   </tr>
 </table>
@@ -115,12 +125,13 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
 
 ## 🔧 Áreas de Especialización
 
+- **Python**: Desarrollo de aplicaciones, automatización, análisis de datos
+- **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
 - **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
 - **Electrónica**: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
 - **Fabricación**: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
 - **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
-- **Soporte Técnico**: Mantenimiento de servidores, solución de problemas en sistemas
-- **Diseño Gráfico**: Diseño digital, dibujo digital
+- **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
 
 ## 💼 Proyectos Destacados
 
