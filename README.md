@@ -1,38 +1,21 @@
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil" alt="Vistas de perfil" />
-  <table>
-    <tr>
-      <td><b>ERP & Business</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
-        <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
-      </td>
-    </tr>
-  </table>
-</p>
-
+<tr>
+    <td><b>ERP & Business</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
+      <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
+    </td>
   </tr># 👋 ¡Hola! Soy German Martinez
 
 ## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Odoo Partner | Diseño 3D
 
 Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica y sistemas embebidos. Actualmente Jefe de Departamento de TI y Partner oficial de Odoo, con enfoque en crear soluciones eficientes y fáciles de mantener. Apasionado por la automatización y el desarrollo centrado en el usuario.
 
-<div align="center">
-  <a href="[Tu LinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:[Tu Email]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <!-- Más enlaces de contacto aquí -->
-</div>
-
 ## 🛠️ Stack Tecnológico
 
-<table>
+<table width="100%">
   <tr>
-    <td><b>Lenguajes</b></td>
-    <td>
+    <td width="15%"><b>Lenguajes</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="csharp" />
@@ -44,8 +27,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>Web & Móvil</b></td>
-    <td>
+    <td width="15%"><b>Web & Móvil</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular" />
@@ -55,8 +38,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>Backend & DB</b></td>
-    <td>
+    <td width="15%"><b>Backend & DB</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" />
       <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="aspnet" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="flask" />
@@ -67,8 +50,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>Hardware & CAD</b></td>
-    <td>
+    <td width="15%"><b>Hardware & CAD</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="arduino" />
       <img src="https://img.shields.io/badge/Microcontroladores-BF1010?style=flat-square&logoColor=white" alt="microcontrollers" />
       <img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat-square&logoColor=white" alt="proteus" />
@@ -80,8 +63,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>Maquinaria CNC</b></td>
-    <td>
+    <td width="15%"><b>Maquinaria CNC</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Torno-6B8E23?style=flat-square&logoColor=white" alt="lathe" />
       <img src="https://img.shields.io/badge/Fresadora-DAA520?style=flat-square&logoColor=white" alt="milling" />
       <img src="https://img.shields.io/badge/CNC-B22222?style=flat-square&logoColor=white" alt="cnc" />
@@ -145,11 +128,18 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 - **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
 - **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
 
+## 💼 Proyectos Destacados
+
+<!-- Puedes agregar aquí tus proyectos principales cuando estés listo -->
+
 ## 📫 Contáctame
 
-¿Interesado en colaborar o tienes alguna pregunta? ¡Escríbeme!
-
-<!-- Información de contacto aquí -->
+<div align="center">
+  <a href="mailto:luisgerman.mtzh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luisgerman.mtzh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil&style=for-the-badge" alt="Vistas de perfil" />
+</div>
 
 ---
-
