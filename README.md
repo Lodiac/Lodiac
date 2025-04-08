@@ -4,7 +4,9 @@
       <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
       <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
     </td>
-  </tr># 👋 ¡Hola! Soy German Martinez
+  </tr>
+
+<h1 align="center"><b>¡Hola! Soy German Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Odoo Partner | Diseño 3D
 
