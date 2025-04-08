@@ -87,8 +87,11 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
       <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="windows-server" />
       <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux-server" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="ubuntu" />
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="debian" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="azure" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
       <img src="https://img.shields.io/badge/Soporte_Técnico-4B0082?style=flat-square&logoColor=white" alt="tech-support" />
     </td>
   </tr>
@@ -125,9 +128,11 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 
 ## 🔧 Áreas de Especialización
 
-- **Python**: Desarrollo de aplicaciones, automatización, análisis de datos
+- **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
 - **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
 - **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
+- **Infraestructura & Servidores**: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
+- **Sistemas Linux**: Especialización en Ubuntu y Debian para diferentes necesidades de servidores
 - **Electrónica**: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
 - **Fabricación**: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
 - **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
