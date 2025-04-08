@@ -11,6 +11,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
+## 📫 Contáctame
+
+<div align="center">
+  <a href="mailto:luisgerman.mtzh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luisgerman.mtzh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil&style=for-the-badge" alt="Vistas de perfil" />
+</div>
 
 
 <tr>
@@ -145,18 +154,4 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 - **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
 - **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
 
-## 💼 Proyectos Destacados
 
-<!-- Puedes agregar aquí tus proyectos principales cuando estés listo -->
-
-## 📫 Contáctame
-
-<div align="center">
-  <a href="mailto:luisgerman.mtzh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luisgerman.mtzh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil&style=for-the-badge" alt="Vistas de perfil" />
-</div>
-
----
