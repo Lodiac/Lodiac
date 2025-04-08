@@ -1,15 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lodiac" alt="Lodiac" /> </p>
 
-
 [![Gmail Badge](https://img.shields.io/badge/-Lodiac-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luisgerman.mtzh@gmail.com)](mailto:luisgerman.mtzh@gmail.com)
-
-<tr>
-    <td><b>ERP & Business</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
-      <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
-    </td>
-  </tr>
+![ERP & Business](https://img.shields.io/badge/ERP_&_Business-informational?style=flat-square)
+![Odoo Partner](https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Dolibarr](https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white)
 
 <h1 align="center"><b>¡Hola! Soy German Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
