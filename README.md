@@ -6,17 +6,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Lodiac-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luisgerman.mtzh@gmail.com)](mailto:luisgerman.mtzh@gmail.com)
 
-## 📫 Contáctame
-
-<div align="center">
-  <a href="mailto:luisgerman.mtzh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-luisgerman.mtzh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil&style=for-the-badge" alt="Vistas de perfil" />
-</div>
-
-
 <tr>
     <td><b>ERP & Business</b></td>
     <td>
