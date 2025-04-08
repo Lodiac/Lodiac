@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil" alt="Vistas de perfil" />
+</p>
 <tr>
     <td><b>ERP & Business</b></td>
     <td>
@@ -138,10 +141,6 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 - **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
 - **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
 
-## 💼 Proyectos Destacados
-
-<!-- Puedes agregar aquí tus proyectos principales cuando estés listo -->
-
 ## 📫 Contáctame
 
 ¿Interesado en colaborar o tienes alguna pregunta? ¡Escríbeme!
@@ -150,6 +149,3 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil" alt="Vistas de perfil" />
-</p>
