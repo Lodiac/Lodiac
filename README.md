@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy German Martinez
 
 ## 👨‍💻 Desarrollador Full-Stack | Sistemas Embebidos | Odoo Partner | Diseño 3D
 
@@ -62,6 +62,16 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
       <img src="https://img.shields.io/badge/PCB_Design-00C7B7?style=flat-square&logoColor=white" alt="pcb" />
       <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white" alt="solidworks" />
       <img src="https://img.shields.io/badge/Impresión_3D-4285F4?style=flat-square&logoColor=white" alt="3d-printing" />
+      <img src="https://img.shields.io/badge/Resina_Epóxica-9999FF?style=flat-square&logoColor=white" alt="epoxy" />
+      <img src="https://img.shields.io/badge/PLCs-FFA500?style=flat-square&logoColor=white" alt="plcs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Maquinaria CNC</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Torno-6B8E23?style=flat-square&logoColor=white" alt="lathe" />
+      <img src="https://img.shields.io/badge/Fresadora-DAA520?style=flat-square&logoColor=white" alt="milling" />
+      <img src="https://img.shields.io/badge/CNC-B22222?style=flat-square&logoColor=white" alt="cnc" />
     </td>
   </tr>
   <tr>
@@ -73,6 +83,18 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
       <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux-server" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="azure" />
+      <img src="https://img.shields.io/badge/Soporte_Técnico-4B0082?style=flat-square&logoColor=white" alt="tech-support" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>IDEs & Diseño</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="visual-studio" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vscode" />
+      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="netbeans" />
+      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="xampp" />
+      <img src="https://img.shields.io/badge/Diseño_Digital-FF69B4?style=flat-square&logoColor=white" alt="digital-design" />
+      <img src="https://img.shields.io/badge/Dibujo_Digital-9932CC?style=flat-square&logoColor=white" alt="digital-drawing" />
     </td>
   </tr>
   <tr>
@@ -87,16 +109,18 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lodiac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🔧 Áreas de Especialización
 
 - **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
-- **Electrónica**: Diseño de circuitos, programación de microcontroladores, robótica
+- **Electrónica**: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
+- **Fabricación**: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
 - **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
-- **Diseño 3D**: Modelado con SolidWorks, diseño de moldes, impresión 3D
+- **Soporte Técnico**: Mantenimiento de servidores, solución de problemas en sistemas
+- **Diseño Gráfico**: Diseño digital, dibujo digital
 
 ## 💼 Proyectos Destacados
 
@@ -111,5 +135,5 @@ Desarrollador multidisciplinario con experiencia en desarrollo web, aplicaciones
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Vistas+de+perfil" alt="Vistas de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Lodiac&label=Vistas+de+perfil" alt="Vistas de perfil" />
 </p>
