@@ -3,6 +3,7 @@
 <h1 align="center"><b>¡Hola! Soy German Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Diseño 3D
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica y sistemas embebidos. Actualmente Jefe de Departamento de TI y Partner oficial de Odoo, con enfoque en crear soluciones eficientes y fáciles de mantener. Apasionado por la automatización y el desarrollo centrado en el usuario.
 
