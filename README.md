@@ -111,7 +111,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
   <img style="height: auto;" src="https://github-readme-stats.vercel.app/api?username=Lodiac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img style="height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+ 
 ## 🔧 Áreas de Especialización
 
 - **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
