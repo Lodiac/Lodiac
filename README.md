@@ -110,19 +110,16 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
- <table>
-   <tr>
-     <td align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Lenguajes principales de Lodiac" />
-     </td>
-   </tr>
-   <tr>
-     <td align="center">
-       <br>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false" alt="Racha de contribuciones de Lodiac" />
-     </td>
-   </tr>
- </table>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false" alt="Racha de contribuciones de Lodiac" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Lenguajes principales de Lodiac" />
+      </td>
+    </tr>
+  </table>
 </p>
 <!--- stats (end) -->
 ## 🔧 Áreas de Especialización
