@@ -110,18 +110,19 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lodiac&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="Estadísticas de Lodiac" />
-        <br><br>
-        <img title="🔥 Obtén estadísticas de racha para tu perfil en git.io/streak-stats" alt="Lodiac" src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false"/>
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-      </td>
-    </tr>
-  </table>
+ <table>
+   <tr>
+     <td align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact&theme=dark&hide_border=true&card_width=320" alt="Lenguajes principales de Lodiac" />
+     </td>
+   </tr>
+   <tr>
+     <td align="center">
+       <br>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false" alt="Racha de contribuciones de Lodiac" />
+     </td>
+   </tr>
+ </table>
 </p>
 <!--- stats (end) -->
 ## 🔧 Áreas de Especialización
