@@ -115,7 +115,9 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
       <td width="50%" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false" alt="Racha de contribuciones de Lodiac" />
       </td>
-      
+      <td width="50%" align="center">
+      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lodiac)](https://github.com/anuraghazra/github-readme-stats)
+         </td>
     </tr>
   </table>
 </p>
