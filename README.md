@@ -116,7 +116,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false" alt="Racha de contribuciones de Lodiac" />
       </td>
       <td width="50%" align="center">
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact)
+      
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact" alt="Racha de contribuciones de Lodiac" />
       </td>
     </tr>
   </table>
