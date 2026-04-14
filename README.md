@@ -1,14 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=Lodiac" alt="Lodiac" /> [![Gmail Badge](https://img.shields.io/badge/-German-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luisgerman.mtzh@gmail.com)](mailto:luisgerman.mtzh@gmail.com) ![ERP & Business](https://img.shields.io/badge/ERP_&_Business-informational?style=flat-square) ![Odoo Partner](https://img.shields.io/badge/Odoo_Partner-714B67?style=flat-square&logo=odoo&logoColor=white) ![Dolibarr](https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white)
-
+<img src="https://komarev.com/ghpvc/?username=Lodiac" alt="Lodiac" /> Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
 <h1 align="center"><b>¡Hola! Soy German Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Diseño 3D
+👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Redes & Infraestructura | Diseño 3D
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-
-Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica y sistemas embebidos. Actualmente Jefe de Departamento de TI y Partner oficial de Odoo, con enfoque en crear soluciones eficientes y fáciles de mantener. Apasionado por la automatización y el desarrollo centrado en el usuario.
-
-## 🛠️ Stack Tecnológico
-
+Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica, sistemas embebidos y redes. Actualmente Jefe de Departamento de TI, con dominio en desarrollo de módulos e integraciones para Odoo, diseño de infraestructura de red y creación de soluciones eficientes centradas en el usuario. Apasionado por la automatización, la conectividad y el desarrollo orientado a resultados.
+🛠️ Stack Tecnológico
 <table width="100%">
   <tr>
     <td width="15%"><b>Lenguajes</b></td>
@@ -35,16 +30,29 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td width="15%"><b>Backend & DB</b></td>
+    <td width="15%"><b>Backend & APIs</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" />
       <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="aspnet" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="flask" />
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logoColor=white" alt="rest-api" />
+      <img src="https://img.shields.io/badge/Web_Services-FF6F00?style=flat-square&logoColor=white" alt="web-services" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="mariadb" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="sqlserver" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td width="15%"><b>Redes & VPN</b></td>
+    <td width="85%">
+      <img src="https://img.shields.io/badge/StrongSwan-2C3E50?style=flat-square&logoColor=white" alt="strongswan" />
+      <img src="https://img.shields.io/badge/VPN_IPsec-1ABC9C?style=flat-square&logoColor=white" alt="vpn-ipsec" />
+      <img src="https://img.shields.io/badge/VLANs-0078D7?style=flat-square&logoColor=white" alt="vlans" />
+      <img src="https://img.shields.io/badge/Enrutamiento-E74C3C?style=flat-square&logoColor=white" alt="routing" />
+      <img src="https://img.shields.io/badge/Enlace_Punto_a_Punto-8E44AD?style=flat-square&logoColor=white" alt="p2p-link" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
     </td>
   </tr>
   <tr>
@@ -79,7 +87,6 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
       <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="debian" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws" />
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="azure" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
       <img src="https://img.shields.io/badge/Soporte_Técnico-4B0082?style=flat-square&logoColor=white" alt="tech-support" />
     </td>
   </tr>
@@ -95,9 +102,18 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
+    <td><b>ERP & Integración</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Odoo_Dev-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
+      <img src="https://img.shields.io/badge/Módulos_Odoo-A855A0?style=flat-square&logoColor=white" alt="odoo-modules" />
+      <img src="https://img.shields.io/badge/Odoo_XML--RPC-6D4C8E?style=flat-square&logoColor=white" alt="odoo-xmlrpc" />
+      <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="dolibarr" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Gestión de Proyectos</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Agile-47A248?style=flat-square&logo=agile&logoColor=white" alt="agile" />
+      <img src="https://img.shields.io/badge/Agile-47A248?style=flat-square&logoColor=white" alt="agile" />
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="jira" />
       <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="trello" />
       <img src="https://img.shields.io/badge/Asana-FC636B?style=flat-square&logo=asana&logoColor=white" alt="asana" />
@@ -106,9 +122,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
 </table>
-
-## 📊 Estadísticas de GitHub
-
+📊 Estadísticas de GitHub
 <p align="center">
   <table>
     <tr>
@@ -116,22 +130,21 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodiac&theme=dark&hide_border=false" alt="Racha de contribuciones de Lodiac" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact" alt="Racha de contribuciones de Lodiac" />
-         </td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lodiac&layout=compact" alt="Lenguajes más usados de Lodiac" />
+      </td>
     </tr>
   </table>
 </p>
-<!--- stats (end) -->
-## 🔧 Áreas de Especialización
+🔧 Áreas de Especialización
 
-- **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
-- **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
-- **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
-- **Infraestructura & Servidores**: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
-- **Sistemas Linux**: Especialización en Ubuntu y Debian para diferentes necesidades de servidores
-- **Electrónica**: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
-- **Fabricación**: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
-- **Odoo**: Implementación, configuración, desarrollo de módulos personalizados
-- **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
-
-
+Python: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
+Liderazgo TI: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
+Redes & Conectividad: Configuración de VPNs con StrongSwan (IPsec), VLANs, enrutamiento entre redes, enlaces punto a punto
+APIs & Web Services: Diseño e integración de REST APIs y servicios web en múltiples plataformas
+Desarrollo Web & Móvil: Aplicaciones web y móviles con React, Flutter, y Laravel
+Infraestructura & Servidores: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
+Sistemas Linux: Especialización en Ubuntu y Debian para diferentes necesidades de servidores
+Electrónica: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
+Fabricación: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
+Odoo: Desarrollo de módulos personalizados, integraciones vía XML-RPC y API REST
+Diseño UX/UI: Diseño de interfaces funcionales, optimizadas y atractivas
