@@ -1,12 +1,29 @@
-<img src="https://komarev.com/ghpvc/?username=Lodiac" alt="Lodiac" /> Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lodiac&style=flat-square&color=blue" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/Lodiac?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Jefe_de_TI-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Jefe de TI" />
+  <img src="https://img.shields.io/badge/Python_Specialist-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Odoo_Dev-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo Dev" />
+  <img src="https://img.shields.io/badge/ERP_%26_Business-informational?style=flat-square" alt="ERP" />
+  <img src="https://img.shields.io/badge/Dolibarr-0050FF?style=flat-square&logoColor=white" alt="Dolibarr" />
+  <a href="mailto:luisgerman.mtzh@gmail.com">
+    <img src="https://img.shields.io/badge/-German-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 <h1 align="center"><b>¡Hola! Soy German Martinez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Redes & Infraestructura | Diseño 3D
+
+## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Redes & Infraestructura | Diseño 3D
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
 Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica, sistemas embebidos y redes. Actualmente Jefe de Departamento de TI, con dominio en desarrollo de módulos e integraciones para Odoo, diseño de infraestructura de red y creación de soluciones eficientes centradas en el usuario. Apasionado por la automatización, la conectividad y el desarrollo orientado a resultados.
-🛠️ Stack Tecnológico
+
+## 🛠️ Stack Tecnológico
+
 <table width="100%">
   <tr>
-    <td width="15%"><b>Lenguajes</b></td>
+    <td width="15%" valign="top"><b>Lenguajes</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" />
@@ -19,7 +36,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td width="15%"><b>Web & Móvil</b></td>
+    <td width="15%" valign="top"><b>Web & Móvil</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react" />
@@ -30,7 +47,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td width="15%"><b>Backend & APIs</b></td>
+    <td width="15%" valign="top"><b>Backend & APIs</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" />
       <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="aspnet" />
@@ -45,7 +62,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td width="15%"><b>Redes & VPN</b></td>
+    <td width="15%" valign="top"><b>Redes & VPN</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/StrongSwan-2C3E50?style=flat-square&logoColor=white" alt="strongswan" />
       <img src="https://img.shields.io/badge/VPN_IPsec-1ABC9C?style=flat-square&logoColor=white" alt="vpn-ipsec" />
@@ -56,7 +73,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td width="15%"><b>Hardware & CAD</b></td>
+    <td width="15%" valign="top"><b>Hardware & CAD</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="arduino" />
       <img src="https://img.shields.io/badge/Microcontroladores-BF1010?style=flat-square&logoColor=white" alt="microcontrollers" />
@@ -69,7 +86,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td width="15%"><b>Maquinaria CNC</b></td>
+    <td width="15%" valign="top"><b>Maquinaria CNC</b></td>
     <td width="85%">
       <img src="https://img.shields.io/badge/Torno-6B8E23?style=flat-square&logoColor=white" alt="lathe" />
       <img src="https://img.shields.io/badge/Fresadora-DAA520?style=flat-square&logoColor=white" alt="milling" />
@@ -77,8 +94,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>
+    <td width="15%" valign="top"><b>DevOps & Cloud</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
       <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="windows-server" />
@@ -91,8 +108,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>IDEs & Diseño</b></td>
-    <td>
+    <td width="15%" valign="top"><b>IDEs & Diseño</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="visual-studio" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vscode" />
       <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" alt="netbeans" />
@@ -102,8 +119,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>ERP & Integración</b></td>
-    <td>
+    <td width="15%" valign="top"><b>ERP & Integración</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Odoo_Dev-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo" />
       <img src="https://img.shields.io/badge/Módulos_Odoo-A855A0?style=flat-square&logoColor=white" alt="odoo-modules" />
       <img src="https://img.shields.io/badge/Odoo_XML--RPC-6D4C8E?style=flat-square&logoColor=white" alt="odoo-xmlrpc" />
@@ -111,8 +128,8 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
   <tr>
-    <td><b>Gestión de Proyectos</b></td>
-    <td>
+    <td width="15%" valign="top"><b>Gestión de Proyectos</b></td>
+    <td width="85%">
       <img src="https://img.shields.io/badge/Agile-47A248?style=flat-square&logoColor=white" alt="agile" />
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="jira" />
       <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white" alt="trello" />
@@ -122,7 +139,9 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </td>
   </tr>
 </table>
-📊 Estadísticas de GitHub
+
+## 📊 Estadísticas de GitHub
+
 <p align="center">
   <table>
     <tr>
@@ -135,16 +154,17 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     </tr>
   </table>
 </p>
-🔧 Áreas de Especialización
 
-Python: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
-Liderazgo TI: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
-Redes & Conectividad: Configuración de VPNs con StrongSwan (IPsec), VLANs, enrutamiento entre redes, enlaces punto a punto
-APIs & Web Services: Diseño e integración de REST APIs y servicios web en múltiples plataformas
-Desarrollo Web & Móvil: Aplicaciones web y móviles con React, Flutter, y Laravel
-Infraestructura & Servidores: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
-Sistemas Linux: Especialización en Ubuntu y Debian para diferentes necesidades de servidores
-Electrónica: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
-Fabricación: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
-Odoo: Desarrollo de módulos personalizados, integraciones vía XML-RPC y API REST
-Diseño UX/UI: Diseño de interfaces funcionales, optimizadas y atractivas
+## 🔧 Áreas de Especialización
+
+- **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
+- **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
+- **Redes & Conectividad**: Configuración de VPNs con StrongSwan (IPsec), VLANs, enrutamiento entre redes, enlaces punto a punto
+- **APIs & Web Services**: Diseño e integración de REST APIs y servicios web en múltiples plataformas
+- **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
+- **Infraestructura & Servidores**: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
+- **Sistemas Linux**: Especialización en Ubuntu y Debian para diferentes necesidades de servidores
+- **Electrónica**: Diseño de circuitos, programación de microcontroladores, robótica, PLCs
+- **Fabricación**: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
+- **Odoo**: Desarrollo de módulos personalizados, integraciones vía XML-RPC y API REST
+- **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
