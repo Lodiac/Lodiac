@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lodiac&style=flat-square&color=blue" alt="Visitas al perfil" />
   <img src="https://img.shields.io/github/followers/Lodiac?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Jefe_de_TI-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Jefe de TI" />
   <img src="https://img.shields.io/badge/Python_Specialist-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Odoo_Dev-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo Dev" />
   <img src="https://img.shields.io/badge/ERP_%26_Business-informational?style=flat-square" alt="ERP" />
@@ -75,6 +74,14 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
       <img src="https://img.shields.io/badge/Enrutamiento-E74C3C?style=flat-square&logoColor=white" alt="routing" />
       <img src="https://img.shields.io/badge/Enlace_Punto_a_Punto-8E44AD?style=flat-square&logoColor=white" alt="p2p-link" />
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cloudflare" />
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" valign="top"><b>Carriers</b></td>
+    <td width="85%">
+      <img src="https://img.shields.io/badge/AT%26T-00A8E0?style=flat-square&logoColor=white" alt="AT&T" />
+      <img src="https://img.shields.io/badge/Telcel-003DA5?style=flat-square&logoColor=white" alt="Telcel" />
+      <img src="https://img.shields.io/badge/BAIT-E2001A?style=flat-square&logoColor=white" alt="BAIT" />
     </td>
   </tr>
   <tr>
@@ -179,4 +186,4 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 **Arquitectura Multi-Carrier con Segmentación de Tráfico**
 Diseño e implementación de soluciones de interconexión B2B con múltiples carriers de telecomunicaciones en entornos de producción. Gestión de identidad de salida por proveedor, segmentación selectiva del tráfico crítico y coexistencia de servicios públicos e internos sobre la misma infraestructura. Enfoque en disponibilidad continua, aislamiento de fallas y control total del plano de datos.
 
-> `Policy-Based Routing` · `IPsec Masquerading` · `iptables/nftables` · `IKEv2` · `Multi-Homed IPsec`
+> `StrongSwan` · `Policy-Based Routing` · `IPsec Masquerading` · `iptables/nftables` · `IKEv2` · `Multi-Homed IPsec`
