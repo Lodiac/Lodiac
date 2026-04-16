@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Líder de TI | Python Specialist | Sistemas Embebidos | Redes & Infraestructura | Diseño 3D
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica, sistemas embebidos y redes. Actualmente Jefe de Departamento de TI, con dominio en desarrollo de módulos e integraciones para Odoo, diseño de infraestructura de red y creación de soluciones eficientes centradas en el usuario. Apasionado por la automatización, la conectividad y el desarrollo orientado a resultados.
+Desarrollador multidisciplinario con especialización en Python y amplia experiencia en desarrollo web, aplicaciones móviles, electrónica, sistemas embebidos y redes. Con dominio en desarrollo de módulos e integraciones para Odoo, diseño de infraestructura de red y creación de soluciones eficientes centradas en el usuario. Apasionado por la automatización, la conectividad y el desarrollo orientado a resultados.
 
 ## 🛠️ Stack Tecnológico
 
@@ -171,7 +171,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 
 - **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
 - **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
-- **Redes & Conectividad**: Configuración de VPNs con StrongSwan (IPsec), Policy-Based Routing con IPsec Masquerading selectivo, arquitectura de interconexión Carrier (AT&T / Telcel), segmentación de tráfico por host `/32` (micro-segmentation), VLANs, enrutamiento entre redes, enlaces punto a punto
+- **Redes & Conectividad**: Configuración de VPNs con StrongSwan (IPsec), Policy-Based Routing con IPsec Masquerading selectivo, arquitectura de interconexión multi-carrier, segmentación de tráfico por host, VLANs, enrutamiento entre redes, enlaces punto a punto
 - **APIs & Web Services**: Diseño e integración de REST APIs y servicios web en múltiples plataformas
 - **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
 - **Infraestructura & Servidores**: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
