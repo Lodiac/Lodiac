@@ -171,7 +171,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 
 - **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
 - **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
-- **Redes & Conectividad**: Configuración de VPNs con StrongSwan (IPsec), Policy-Based Routing con IPsec Masquerading selectivo, arquitectura de interconexión multi-carrier, segmentación de tráfico por host, VLANs, enrutamiento entre redes, enlaces punto a punto
+- **Redes & Conectividad**: Configuración de VPNs (IPsec), Policy-Based Routing con IPsec Masquerading selectivo, arquitectura de interconexión multi-carrier, segmentación de tráfico por host, VLANs, enrutamiento entre redes, enlaces punto a punto
 - **APIs & Web Services**: Diseño e integración de REST APIs y servicios web en múltiples plataformas
 - **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
 - **Infraestructura & Servidores**: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
@@ -186,4 +186,4 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 **Arquitectura Multi-Carrier con Segmentación de Tráfico**
 Diseño e implementación de soluciones de interconexión B2B con múltiples carriers de telecomunicaciones en entornos de producción. Gestión de identidad de salida por proveedor, segmentación selectiva del tráfico crítico y coexistencia de servicios públicos e internos sobre la misma infraestructura. Enfoque en disponibilidad continua, aislamiento de fallas y control total del plano de datos.
 
-> `StrongSwan` · `Policy-Based Routing` · `IPsec Masquerading` · `iptables/nftables` · `IKEv2` · `Multi-Homed IPsec`
+> `Policy-Based Routing` · `IPsec Masquerading` · `iptables/nftables` · `IKEv2` · `Multi-Homed IPsec`
