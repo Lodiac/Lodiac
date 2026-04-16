@@ -66,6 +66,11 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
     <td width="85%">
       <img src="https://img.shields.io/badge/StrongSwan-2C3E50?style=flat-square&logoColor=white" alt="strongswan" />
       <img src="https://img.shields.io/badge/VPN_IPsec-1ABC9C?style=flat-square&logoColor=white" alt="vpn-ipsec" />
+      <img src="https://img.shields.io/badge/Policy--Based_Routing-E67E22?style=flat-square&logoColor=white" alt="pbr" />
+      <img src="https://img.shields.io/badge/IPsec_Masquerading-1A7A5E?style=flat-square&logoColor=white" alt="masquerading" />
+      <img src="https://img.shields.io/badge/iptables%2FNFTables-E74C3C?style=flat-square&logoColor=white" alt="iptables" />
+      <img src="https://img.shields.io/badge/Multi--Homed_IPsec-8E44AD?style=flat-square&logoColor=white" alt="multihomed" />
+      <img src="https://img.shields.io/badge/Carrier_Integration-FF6B00?style=flat-square&logoColor=white" alt="carrier" />
       <img src="https://img.shields.io/badge/VLANs-0078D7?style=flat-square&logoColor=white" alt="vlans" />
       <img src="https://img.shields.io/badge/Enrutamiento-E74C3C?style=flat-square&logoColor=white" alt="routing" />
       <img src="https://img.shields.io/badge/Enlace_Punto_a_Punto-8E44AD?style=flat-square&logoColor=white" alt="p2p-link" />
@@ -159,7 +164,7 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 
 - **Python**: Desarrollo de aplicaciones, automatización, análisis de datos, asistentes virtuales
 - **Liderazgo TI**: Gestión de equipos técnicos, planificación de proyectos, metodologías ágiles
-- **Redes & Conectividad**: Configuración de VPNs con StrongSwan (IPsec), VLANs, enrutamiento entre redes, enlaces punto a punto
+- **Redes & Conectividad**: Configuración de VPNs con StrongSwan (IPsec), Policy-Based Routing con IPsec Masquerading selectivo, arquitectura de interconexión Carrier (AT&T / Telcel), segmentación de tráfico por host `/32` (micro-segmentation), VLANs, enrutamiento entre redes, enlaces punto a punto
 - **APIs & Web Services**: Diseño e integración de REST APIs y servicios web en múltiples plataformas
 - **Desarrollo Web & Móvil**: Aplicaciones web y móviles con React, Flutter, y Laravel
 - **Infraestructura & Servidores**: Configuración y mantenimiento de servidores en rack, servicios de correo, FTP, dominios, Cloudflare
@@ -168,3 +173,10 @@ Desarrollador multidisciplinario con especialización en Python y amplia experie
 - **Fabricación**: Diseño 3D, impresión 3D, resina epóxica, maquinaria CNC, torno y fresadora
 - **Odoo**: Desarrollo de módulos personalizados, integraciones vía XML-RPC y API REST
 - **Diseño UX/UI**: Diseño de interfaces funcionales, optimizadas y atractivas
+
+## 📡 Interconexión Empresarial
+
+**Arquitectura Multi-Carrier con Segmentación de Tráfico**
+Diseño e implementación de soluciones de interconexión B2B con múltiples carriers de telecomunicaciones en entornos de producción. Gestión de identidad de salida por proveedor, segmentación selectiva del tráfico crítico y coexistencia de servicios públicos e internos sobre la misma infraestructura. Enfoque en disponibilidad continua, aislamiento de fallas y control total del plano de datos.
+
+> `Policy-Based Routing` · `IPsec Masquerading` · `iptables/nftables` · `IKEv2` · `Multi-Homed IPsec`
